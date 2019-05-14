@@ -1,6 +1,7 @@
 {
     "name": "dyned/service-adapter",
     "description": "A Service Adapter for DynEd Microservice",
+    "homepage": "https://github.com/mlazuardy-dyned/service-adapter",
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
