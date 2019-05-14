@@ -1,0 +1,13 @@
+{
+    "name": "dyned/service-adapter",
+    "description": "A Service Adapter for DynEd Microservice",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dyned\\ServiceAdapter\\":"src"
+        }
+    }
+}
